@@ -61,7 +61,7 @@ curl -X POST "http://127.0.0.1:8000/upload" \
 ---
 
 ### 2. **Train the Model**
-Trains the Decision Tree model on the uploaded dataset.
+Trains the Logistic Regression model on the uploaded dataset.
 
 - **URL**: `/train`
 - **Method**: `POST`
